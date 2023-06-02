@@ -1,4 +1,4 @@
-### Uhh .. hello world? 👋
+###  In `caffeinate -d` mode...
 
 - 🔭 I’m currently studying & working in financial engineering (@ICL, @Sigtech)
 - 🌱 I’m currently learning a lot of things lol. Mainly in the field of Machine Learning & Finance (with a focus on quant finance)
