@@ -1,5 +1,5 @@
 ##  In `caffeinate -d` mode...
-### I'm looking for a job in quantitative finance
+### Hi, I'm Salim. I'm looking for a job in quantitative finance
 - 🔭 I’m currently studying & working in financial engineering (@ICL, @Sigtech)
 - 🌱 I go where my ciruousity leads me. Currently, I learn as much as I can about Machine Learning & Finance (with a focus on quant finance)
 - 👯 I’m looking to collaborate on any ML Projects, DeFi flashloan idea, Africa fintech idea or new quant trading strat.
