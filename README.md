@@ -1,6 +1,6 @@
 ##  In `caffeinate -d` mode...
 ### Hi, I'm Salim.
-- 👨‍💻 Working on systematic investment strategies [@Sigtech](https://sigtech.com/)
+- 👨‍💻 Working on systematic investment strategies @SigTech, @Brevan Howard
 - 🔭 Studied financial engineering [@Imperial College London](https://www.imperial.ac.uk/)
 - 🌱 I go where my curiosity leads me. Currently focusing on vol strats and swaps
 - 👯 Looking to collaborate on any ML Projects, Open data for emerging markets, or new systematic trading strat
