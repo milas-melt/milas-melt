@@ -2,7 +2,7 @@
 ### Hi, I'm Salim.
 - 👨‍💻 Working on systematic investment strategies @SigTech, @Brevan Howard
 - 🔭 Studied financial engineering [@Imperial College London](https://www.imperial.ac.uk/)
-- 🌱 I go where my curiosity leads me. Currently focusing on vol strats and swaps
+- 🌱 I go where my curiosity leads me. Currently focusing on vol strats with swaps and trend follow with futures
 - 👯 Looking to collaborate on any ML Projects, Open data for emerging markets, or new systematic trading strat
 - 🤔 On a personal level, I'm trying to [improve the databases in Morocco](https://github.com/milas-melt/Moroccan-Databases), [create cool LLM apps](https://github.com/milas-melt/multi-character-AI-bot) and [intelligent music systems](https://github.com/milas-melt/dj_station)
 - ⚡ Sci-fi projects: Let's talk about encryption using the game of life
