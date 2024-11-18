@@ -2,10 +2,18 @@
 ### Hi, I'm Salim.
 - 👨‍💻 Working on systematic investment strategies @SigTech, @Brevan Howard
 - 🔭 Studied financial engineering [@Imperial College London](https://www.imperial.ac.uk/)
-- 🌱 I go where my curiosity leads me. Currently focusing on vol strats with swaps and trend following. Also working on data projects for emerging countries.
-- 👯 Looking to collaborate on any ML Projects, Open data for emerging markets, or new systematic trading strat
-- 🤔 On a personal level, I'm trying to [improve the databases in Morocco](https://github.com/milas-melt/Moroccan-Databases), [create cool LLM apps](https://github.com/milas-melt/multi-character-AI-bot) and [intelligent music systems](https://github.com/milas-melt/dj_station)
-- ⚡ Sci-fi projects: Let's talk about encryption using the game of life
-- 🌍 I deeply care about my home continent Africa and am thinking of ways to improve Fintech and data in Morocco, hoping to find a solution that scales in Africa. 
+- Here are a few things I do on my job (you won't find any trace of this in my GitHub, as the work I do is confidential).
+    - Focusing on futures and OTC derivatives; occasional work on swaps, swaptions, and FX
+    - Collaborating with portfolio managers and their team to brainstorm and implement trading strategies
+    - Creating dashboards, GUIs and automation tools assisting pods in their investments and daily tasks
+    - Developing Python-based cross-asset low-mid frequency (mainly EOD, occasionally intraday for
+    futures & bonds – 1min bar) quantitative strategies for investment teams of various hedge funds
+    globally. Key strategies include trend following, volatility carry, beta neutral and momentum
+    - Building comprehensive dashboards and analytics tools for pods covering topics like strategy
+    performance and risk analysis
+    - Contributing to the SigTech framework by enhancing classes such as RollingFutureStrategy and
+    OTC option pricing using Black-Scholes, Black76 and Vanna Volga for exotic FX options
+    - Engineering data validation pipelines for futures timeseries, single stocks, and volatility surfaces
 
+The opinions expressed on this GitHub, or any other public source such as my personal website or social media are my own.
 Feel free to check my [personal website](http://www.salimtlemcani.com/) and [linkedin](https://www.linkedin.com/in/salim-tlem%C3%A7ani-770858148/).
